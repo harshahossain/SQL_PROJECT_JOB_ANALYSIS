@@ -72,7 +72,7 @@ These roles are clear outliers in the market, tied to revenue ownership, trading
 - **Business Impact Over Labels**
   Despite title differences, the highest-paid roles share ownership of strategy, revenue, or critical systems, not just modeling.
 
-  ![Top Paying Roles](assets\salary_role.png)
+  ![Top Paying Roles](assets/salary_role.png)
   _Bar graph visualizing the salary for the top 10 salaries for data scientists_
 
 ### 2. What skills are required for these top-paying jobs?
@@ -118,7 +118,7 @@ ORDER BY salary_year_avg DESC;
 
 - **Salary is tied to skill combination** — more high-value, complementary skills (e.g., Python + cloud + ML frameworks) correlate with $500K+ roles.
 
-![Top paying skills](assets\salary_skill.png)
+![Top paying skills](assets/salary_skill.png)
 _Bar Grapgh visualizing the top 10 paying data scientists jobs in 2023_
 
 ### 3. What skills are the most in demand for Data Scientists?
@@ -192,7 +192,7 @@ LIMIT 25;
 - Emerging technologies & niche skills (Solidity, Neo4j, OpenCV) also correlate with top salaries.
 - Full-stack + advanced toolsets are preferred — not just core analytics.
 
-![Top 25 highest paying Data Science Skills](assets\25_high_pay_skill.png)
+![Top 25 highest paying Data Science Skills](assets/25_high_pay_skill.png)
 _Visalization of top 25 highest paying skills to learn_
 
 ### 5. What are the most optimal skills to learn?
@@ -230,7 +230,7 @@ LIMIT 25;
 - C, Go, and Qlik represent the highest salary bracket in this set (exceeding $\$164,000$), though they have lower demand counts compared to Python.
 - Spark, Tensorflow, and Pytorch occupy a "sweet spot" with high salaries (over $\$150,000$) and triple-digit demand counts.
 
-  ![Optimal SKill Graph](assets\optimal_skill.png)
+  ![Optimal SKill Graph](assets/optimal_skill.png)
   _This visualization combines both the Average Salary (bars) and the Demand Count (line) to highlight "optimal" skills—those that offer a high salary while also having significant market demand._
 
 # Realizations
