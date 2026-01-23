@@ -1,6 +1,6 @@
--- Trying to identify the highest-paying Data Analyst roles that are remotely available
+-- Trying to identify the highest-paying Data Scientist roles that are remotely available
 -- Focusing on job postings with specified salaries and removing the nulls
--- For Highlighting the top-paying opportunities for Data Analysts, offering insights into 'Finding the most optimal roles with optimal skills'
+-- For Highlighting the top-paying opportunities for Data Scientists, offering insights into 'Finding the most optimal roles with optimal skills'
 
 SELECT
     job_id,
@@ -14,7 +14,7 @@ FROM
     job_postings_fact
     LEFT JOIN company_dim ON job_postings_fact.company_id=company_dim.company_id
 WHERE
-    job_title_short='Data Analyst' 
+    job_title_short='Data Scientist' 
     AND job_location='Anywhere'
     AND salary_year_avg IS NOT NULL
 ORDER BY
