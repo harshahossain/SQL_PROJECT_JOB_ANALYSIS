@@ -58,7 +58,7 @@ LIMIT 10;
 Extreme Salary Range & Outliers ($300K–$550K)
 These roles are clear outliers in the market, tied to revenue ownership, trading impact, or company-wide decision power.
 
-**Key Takeways:**
+**Key Takeaways:**
 
 - **Extreme Salary Range & Outliers ($300K–$550K)**
   These roles are clear outliers in the market, tied to revenue ownership, trading impact, or company-wide decision power.
@@ -152,7 +152,7 @@ LIMIT 5;
 | AWS     | 2,593        |
 | Tableau | 2,458        |
 
-**Key Takeways:**
+**Key Takeaways:**
 
 - Python dominates followed by SQL — essential for nearly all DS roles.
 
@@ -237,6 +237,34 @@ LIMIT 25;
 
   _This visualization combines both the Average Salary (bars) and the Demand Count (line) to highlight "optimal" skills—those that offer a high salary while also having significant market demand._
 
-# Realizations
+# What I learned
+
+- Developed the ability to write **complex SQL queries** using **CTEs, joins, aggregations,** and **filtering** to extract meaningful insights from large datasets.
+
+- Strengthened an **analytical mindset** by translating broad objectives into measurable metrics such as **demand frequency** and **average salary**.
+
+- Gained experience in **data aggregation** and **trend analysis**, focusing on identifying patterns rather than surface-level results.
+
+- Improved skills in **data storytelling**, using **visualizations** to support and **communicate insights** clearly.
+
+- Learned how to **structure a complete data analysis project**, from defining objectives and querying data to presenting results in a clear, reproducible format.
 
 # Conclusions
+
+### Insights
+
+1. **Top Data Scientist compensation is driven by business impact**, not job title — the highest salaries are tied to ownership of revenue, strategy, or mission-critical systems.
+
+2. **Skill combinations matter more than individual skills** — roles paying $300K–$550K consistently require blends of Python, SQL, cloud platforms, and ML frameworks.
+
+3. **Python remains the foundation of data science**, showing up as both the most in-demand skill and a core requirement even in the highest-paying roles.
+
+4. **Cloud, big data, and scalable systems skills significantly boost earning potential**, with AWS, Spark, GCP, and Snowflake appearing across high-salary and high-demand roles.
+
+5. **Niche and specialized skills command salary premiums**, including regulatory knowledge (GDPR), high-performance languages (Go, C, Rust), and advanced analytics tools.
+
+6. **The most optimal skills balance demand and salary**, where tools like Spark, TensorFlow, PyTorch, AWS, and Tableau sit in a “sweet spot” of strong market demand and high pay.
+
+### Closing Thoughts
+
+This project reinforced that data science is as much about asking the right questions as it is about technical execution. By working through complex joins, aggregations, and salary-demand tradeoffs, I strengthened my ability to translate raw job market data into meaningful insights. More importantly, it sharpened my analytical judgment — learning how to identify signal over noise, balance demand versus compensation, and think strategically about skill development rather than chasing trends blindly.
